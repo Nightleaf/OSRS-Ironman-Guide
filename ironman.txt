@@ -1,0 +1,1378 @@
+Oldschool Runescape
+How to efficiently max an ironman
+By OzirisRS
+
+Old version: http://pastebin.com/VpEW1XKN
+This version is partly copy pasted from the old, with improved quest order and new methods, just in case you're wondering why it looks the exact same at first. 
+I did include a few alternate methods however, some are for HCIM and some for slightly more casual playstyle, but keep in mind I made this for the purpose of going towards max total so there might be parts where I tell you to get a 99 in one go. If you don't want to do that then I suggest just reading the guide and trying to work out some parts that you can do while getting that particular 99.
+
+If there's a mistake in this guide somewhere then feel free to tweet me @ozirislol but don't tell me to update this as soon as some new update comes, these take a very long time to make.
+
+
+4.2.2018 EDIT
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+NO PLANS TO UPDATE THIS ANYTIME SOON, IT'S STILL USE-ABLE
+
+
+Contents
+
+1. Complete walk-through to barrows gloves				(starts at 54)
+	1.1 Early quests and ardy cloak 1					(71)
+	1.2 Thieving, fishing and mining					(511)
+	1.3 Fairy rings, 43 prayer, kingdom and first 99	(594)
+	1.4 Skilling, lots of it							(791)
+	1.5 Diaries and finishing RFD						(922)
+
+2. Goals after Barrows gloves							(966)
+	Includes Nieve block/skip list
+
+3. Zulrah, slayer and diary cape						(1100)
+	Includes Duradel block/skip list
+
+4. Finishing max total									(1216)
+			
+5. Training methods for all skills						(1258)
+
+6. Helpful videos										(1371)
+
+
+
+
+
+1.Complete walk-through to barrows gloves
+ 
+Start as a female character, don't forget to make yourself an ironman before leaving tutorial island.
+ 
+This guide assumes that you always carry your cash stack, unless I say not to bring it. I will mention to bring gp regardless most of the time, but if I don't then keep it on you anyway
+ 
+Use every book and lamp on Herblore if possible.
+
+Get rune pouch ASAP, unless you feel like it's cheating to boost bh emblems. I personally don't think there's anything wrong with it as long as you don't start farming them to get alchables on your iron. Tier 6 for a rune pouch.
+ 
+Do gem and maze randoms
+ 
+Authenticator AND 2-step verification on e-mail
+
+
+
+
+1.1 Early quests and ardy cloak 1
+
+Lumby
+Start quests;
+    Rune mysteries, Cooks assistant, Restless ghost
+ 
+Pick up every item spawn in the castle, including the ones in cellar, don't forget the cabbage
+Fill a jug with water
+ 
+Go to the top of the castle and light the logs until 15 Firemaking, 16 world hops
+Pick up 3 ashes in the last world
+Pick up 1 log for later
+Get 1 bucket of milk
+
+Take out 25gp from the bank
+Thieve men until 255gp, buy a steel axe
+	HCIM, might have to kill a couple of chickens for food, normals can just suicide for hp.
+ 
+ 
+Lumby swamp
+Kill a rat (safespot with ranged) for its meat, keep bones for demon slayer
+Take a spade from the swamp shed that takes you to Zanaris.
+Pick up all of the swamp tar you see, at least 5
+ 
+Get ghostspeak amulet, equip it
+Pick up cheese at Aggie
+Take air talisman to wizard tower
+Walk back and go to rimmington, pick up 1 snape grass near crafting guild.
+
+
+Falador
+Start The Knight's sword quest by talking to the squire
+ 
+ 
+Minigame tele to Castle wars,
+    Inv: Steel axe, 55gp, Tinderbox, Jug of water, 1 normal log
+ 
+ 
+Walk to yanille
+Check hunter store for ardy easy diary
+Buy a pie dish and chocolate bar at Yanille cooking shop
+	crush chocolate with a knife for plague city
+
+Walk to port Khazard
+Buy swamp paste in the general store
+Do Monk's friend
+
+Get 35 woodcutting at oak trees and firemake the logs as you cut them.
+	2 Oaks just south of ardy zoo http://i.imgur.com/EN5Jpdb.png
+
+
+Ardy
+Get 25 thieving with cake and silk
+    Make sure you have at least 100 cakes in the bank
+Do Sheep herder, sell 6 cakes to the general store for the 100gp
+
+Take out GP and small fishing net
+Do Sea slug, fish shrimp while doing quest for diary
+Buy 1 inventory of sardine from the fish shop in Witchaven
+Sell silk, keep 10 in bank for quests
+ 
+You should have 10k GP at this point
+Buy a Player-owned house.
+Buy rope, 5 vial, 30balls of wool and 7 papyrus from ardy general store
+    Inv: rope, spade, gp, few cakes
+
+Dig up clue hunter gloves and boots north of Ardy, http://i.imgur.com/sOD5Zhz.png
+Buy greenman's ale from Rasolo
+Do Dwarf cannon until you have to go to Ice mountain
+ 
+Pick up planks at BA until the log-in limit.
+	If there happen to be no bots taking them, then you might not log out at all. Not sure how many you need in total but just get like
+	150 max for now.
+Do BA tutorial for minigame tele
+Start Barcrawl
+Do Waterfall quest until gnome maze, remember to read the book
+
+Walk to Gnome stronghold
+ 
+BARCRAWL GRAND TREE
+Buy DWELLBERRIES
+Buy 450 bronze arrowheads(100/world for 1gp ea)
+Buy fruit blast items; pineapple, orange, lemon, lemon slice, cocktail shaker, cocktail glass
+
+Walk to Ardy
+Do Plague city
+
+
+Minigame teleport to Castle wars
+Take steel axe and a tinderbox
+Run south-west of castle wars
+Cut and firemake teak logs until 50 Firemaking
+	Location http://i.imgur.com/cOzCs3x.png
+
+
+Home tele, Lumby
+Talk to the ghost for Restless ghost quest
+Go to port sarim and take the boat to Great Kourend
+Make your way to Wintertodt
+
+Do Wintertodt until 75 Firemaking
+	You really shouldn't be in any danger of dying with 10hp, but pay attention anyway, it's a long walk back if you die.
+	10HP accounts start taking 1 damage at 56FM even without warm clothing, but if you dug up the clue hunter boots and gloves earlier
+	then you might as well use them.
+	
+	Alternative: If you aren't planning on killing Zulrah for magic logs to get 99 Firemaking, you can do WT until 99 now if you want
+	to. You will miss out on a fair bit of supplies for not having higher other skills, but it's not the end of the world. You don't
+	need to do WT for money, you'll get plenty later on and it's only 1m gp from 99FM.
+
+
+Home tele, Lumby
+Grab 3 buckets
+    Inv: 3 buckets, few cakes
+ 
+Walk north to Fred's farm
+Get raw chicken at Fred's
+Pick up egg north of Fred
+Kill 1 cow calf for meat, keep the bones for demon slayer
+Fill 3 buckets with milk
+ 
+Walk to Barbarian village (you can walk east of draynor manor by the river, don't walk around through falador or something like that)
+Get ammo mould and the notes for Dwarf cannon
+
+
+Varrock
+Start Gertrude's cat, pick up doogle leaves, use the leaves on a sardine
+    Take out a bucket, barcrawl card, Rune mysteries package and GP from bank
+ 
+Continue gertrude's cat, talk to the kids.
+Start Romeo and Juliet
+Start Demon slayer, get the 2 keys in Varrock
+Talk to Reldo for the knight's sword quest
+Do Shield of Arrav on any visit to Varrock, sooner the better
+ 
+Buy gloves and pink skirt from clothes shop
+Buy a rotten tomato, from the crate near the achievement diary guy
+Do BARCRAWL VARROCK 1/2
+Buy 3 beer
+ 
+Do museum for 9 Hunter and Slayer
+Continue Rune mysteries
+Buy; Fire staff, 100 fire runes, 300 earth/water, 4000 mind, 8000 airs
+
+    Inv: 100 GP, Barcrawl card, bucket of milk, seasoned sardine, cakes
+Walk towards Edgeville
+Start Abyss miniquest by talking to the zamorak mage in wilderness.
+Get 2 iron bars from the wildy spawn, Map: http://i.imgur.com/JKAil41.png
+	HCIM; this is fairly safe, just be ready to log out if you see a white dot.
+ 
+Walk to the pub north-east of Varrock
+BARCRAWL 2/2 VARROCK
+Continue Gertrude's cat at lumberyard
+    Varrock east bank, inv: Pickaxe
+
+Get cadava berries, 12 redberries + enough to make a redberry pie (recommend at least 3 incase you burn it)
+Mine 1 tin and 5 copper
+Finish Gertrude's cat, keep raising cats with the sardine you bought
+Talk to juliet
+    Varrock west, inv: GP, Runes, barcrawl card, equip fire staff
+ 
+Walk towards Falador
+Get 13 magic at barbarians
+Buy bronze med helm from Peksa
+Fire strike bear for its meat near mind altar
+
+Falador
+BARCRAWL FALLY
+Buy 5 wizard mind bombs from the bar
+Buy 6 woad leaves, offer 20gp to get 2 leaves
+    Bank, inv: GP, Cheese, fire strike runes, all 4 meat for druidic ritual, 18 cakes. Equip gloves
+ 
+ 
+Taverly
+Do Witch's house
+    Tank the first 2 phases on the north side of the shed and run to safespot when you need to eat
+	It's possible to safespot the first 2, but with fire strike you are in no real danger of dying with cakes.
+Do Druidic ritual
+Buy 2 eyes of newt and pestle and mortar in Taverly
+
+
+Falador
+Inv: pickaxe, eye of newt, 2 iron bars, bucket (of water), pie dish, redberries, some food
+Buy 500 feathers from port sarim
+Make redberry pie
+	You can buy flour and fill bucket with water at port sarim.
+
+Do Witch's potion quest
+Finish the Knight's sword quest
+	Mine 2 blurites, 1 is for diary
+
+Walk to Edgeville
+Equip a bronze sword and go to mage bank. Be ready to log out if you see a white dot, dying is a waste of time.
+Buy ~50 law runes for now and all of the cosmic runes that you can get
+	Recommend taking a 5min break after you hit the log-in limit just to get a few more cosmics, but that's up to you.
+
+	HCIM; The odds of running into a lvl60 pker is extremely low, but i'd still recommend scouting the lever with another acc first.
+	If you really don't want to risk it then it's fine, but I'm gonna assume while making this guide that you have some laws. You'll
+	most likely get some laws as a drop before you can use them.
+
+
+Home tele, Lumby
+Pick up a few logs and fletch them into headless arrows, make bronze arrows for 10 fletching
+
+Al-kharid
+Buy 20 thread and all of the moulds from the crafting shop.
+Start prince ali rescue
+
+Buy 1 inv of bronze bars for questing from shantay pass.
+Do the tourist trap
+	Safespot for the captain https://www.youtube.com/watch?v=VFxB4zWqrd8
+	PUT BOTH XP REWARDS ON AGILITY, HOLD SPACE SO YOU DON'T ACCIDENTALLY PUT ONE ON THIEVING LIKE I DID :(
+
+Minigame tele to fish trawler
+Buy 1 bucket of slime
+Buy 5 flour from general store
+Buy sand/soda ash/seaweed until log in limit, or until you have 20k gp left (I will be spamming this and you'll hate it, but do it anyway)
+    Prioritize sand and soda ash for the first few times you buy crafting supplies
+ 
+Mine 1 inventory of clay south of Khazard
+ 
+ 
+    Inv: Fire strike, barcrawl card, cakes, axe
+Ardy
+Fire strike imps west of the tower of life for beads
+Do Fight arena
+Do Tree gnome village, get Glarial's pebble on the way for Waterfall
+	Apparently you can safespot warlord again, but if it doesn't work for some reason then: https://www.youtube.com/watch?v=f_E96Zq_NyU
+Pick up purple dye
+BARCRAWL ARDY
+
+Buy 2 compost packs from the Ardy farming shop.
+Train 43 magic at Moss giants near fishing guild.
+	Bury the bones
+	From this point on, use the laws for teleporting if it saves time/run energy. I'm not going to write every teleport to this guide.
+	The mind bombs are for camelot tele, feel free to use them.
+
+Do Hazeel cult
+Do Tribal totem
+	Buy some swordfish and karambwans from the food shop where you start the quest at for some of the more difficult quests.
+    BARCRAWL BRIMHAVEN
+
+    inv: No GP, glarial's pebble, notes for dwarf cannon and ammo mould, rope, 6 air/water/earth runes, cakes
+Finish dwarf cannon
+Drop runes outside glarial's tomb, get 2 amulets and urn
+Finish waterfall
+
+Minigame tele to fish trawler
+Charter to port sarim
+Go to zeah and get 15% hosidius favour, 200 compost and saltpetre
+Train 42 thieving at the fruit stall near farming patch, bank strange fruit and golovanova tops
+	You can trap the dogs inside the building
+	Start using strange fruits for energy
+
+Home tele, Lumby
+Finish cook's assistant
+Start RFD for chest
+Buy 7milk, 1chocolate, 3 flour
+ 
+    Inv: No gp, 20 Ball of wool, 8 cakes
+Do sheep shearer
+Pickpocket HAM members for a rusty sword(get a few just incase)
+    If you get them, keep robes, opal and buttons
+    Have Tindel Marchant identify the sword for Ardy easy task on one of your visits to port Khazard
+Pick up 12 onion at Fred's
+
+
+Draynor
+Buy a chronicle and pages
+Do draynor part of Prince ali rescue
+Start Vampire slayer, get 3 garlic upstairs from the cupboard
+Buy 3 jute seeds and 4 barley seeds from the market
+Make 3 red, 3 blue, 4 yellow dye
+ 
+ 
+Wizard's tower
+    Equip: fire staff
+    Inv: 1 Law, fire strikes, Rune mysteries notes, 4 beads, 20 bones(kill goblins nearby)
+Finish Imp catcher
+Finish Rune mysteries
+Get Ghost's skull
+Kill 5 chicken/wizards, give 25 bones for demon slayer key
+ 
+Tele to varrock
+    Inv: GP, cadava berries and Juliet's letter
+ 
+ 
+Varrock
+Continue Romeo & Juliet, get cadava potion
+Buy iron chainbody from Horvik
+Continue Abyss miniquest, get scrying orb, visit ess mines
+Finish demon slayer
+Continue vampire slayer
+ 
+Finish romeo and juliet
+
+Spirit tree to gnome stronghold
+ 
+ 
+Gnome stronghold
+Use Brimstails to go to ess mines, scrying orb 2/3
+Start Grand tree
+    Inv: GP, 2 Varrock teles, Bark sample, translation notes, Barcrawl card, fire strike
+ 
+Castle wars minigame tele
+BARCRAWL YANILLE pub
+Buy 2 bird snares, 5 butterfly jars and a butterfly net from the hunter shop
+ 
+Go to Hazelmere and continue the grand tree until you are at Karamja shipyard
+    From Karamja shipyard, charter to Karamja, Musa point
+BARCRAWL MUSA POINT
+ 
+Port Sarim
+BARCRAWL PORT SARIM
+Do Pirate's treasure until you need to go to Varrock
+ 
+Tele to Varrock
+Get pirate's message from Blue moon inn
+ 
+Spirit tree to Gnome stronghold
+Finish The Grand tree
+Buy a premade blurb' sp, 2 vodka, pineapple chunks
+Spirit tree to ardy
+
+	Non-efficient method:
+	If you're playing more casually and don't plan on doing barbarian fishing for agility xp, train 40 agility at Varrock course now.
+
+Ardy
+    Inv: GP, Scrying orb, pickaxe, fire strike
+Start biohazard, keep the pots and sample in bank
+Visit ess mines, scrying orb 3/3
+ 
+Buy 11 breads from cake stall
+Mine 2 iron ore (If you got some from wintertodt then ignore this step)
+ 
+ 
+Seers/camelot/catherby
+Buy candle, fishing rod, lobster pot, 15 pineapples
+Put pineapples into the compost bin
+Buy 10 buckets of normal compost and farming tools, store everything in leprechaun
+
+Start Fishing contest
+Start Merlin's crystal, kill Mordred and get bat bones/black candle
+ 
+ 
+Seers
+    Inv: GP, barcrawl card, pot, spade, fishing rod, garlic
+Do Murder mystery
+Barcrawl Seers
+Finish Fishing contest
+    Inv: Doric's quest ores
+ 
+ 
+Taverly/Falador
+Go under the mountain and speak to Lady of the lake
+Do Doric's quest
+ 
+Make 10 molten glass
+Do Black knight's fortress
+Do Recruitment drive
+    Inv: GP, 4 Biohazard items, 1 bread
+ 
+ 
+Rimmington
+Do Rimmington part of Biohazard
+Buy a black wizards hat at port Sarim
+Port Sarim jewellery store, give the bread, deposit box the plague sample at Entrana monks
+
+Minigame tele to castle wars
+    inv: GP, 3 planks, bronze bar, molten glass, runes, some food, 10 empty slots for antipoisons
+Pick up super antipoison(1) until log in limit, decant them
+Do the Observatory quest
+ 
+ 
+HOME TELE, Lumby
+Finish The Restless ghost
+Start the Lost tribe
+Teleport to Varrock
+ 
+ 
+Varrock
+Continue Lost tribe until need to go goblin village
+Buy priest robes(keep these after quest), boots, gloves(if you don't have)
+ 
+Finish abyss miniquest
+Get the magic words for Merlin's crystal at the altar
+Continue Biohazard
+ 
+Do the Digsite quest
+Start Dragon slayer, mine 5 silver ore near champ guild
+Spirit tree to Ardy
+ 
+ 
+Ardy
+Finish Biohazard
+Finish off Ardy easy tasks, and get the cape
+	You won't have 30herb for the lamp so just use it on agility or something.
+Trade cat for 200 death runes
+
+Minigame fish trawler
+buy sand/soda ash/seaweed until you have 15k GP left OR log in limit
+
+Walk to Ardy
+Do Jungle potion
+Do Shilo village
+	HCIM; Buy a few karambwans and swordfish from brimhaven food store, be very careful in the last multicombat dungeon, it's probably
+	the most dangerous area for a long time.
+
+
+Minigame fish trawler
+buy sand/soda ash/seaweed until you have 15k GP left OR log in limit
+
+    inv: pickaxe, lit candle, excalibur, bat bones, black candle, tinderbox, knife
+Teleport to Camelot
+Finish Merlin's crystal
+Start Holy grail 
+
+Get boots of lightness
+Mine 12 coal near legend's guild(Might already have from wintertodt)
+Buy 1 inv of stew from the Seers bar
+Do Elemental workshop 1
+    inv: Lost tribe brooch and book, blue/orange dyes
+ 
+ 
+Falador teleport
+Do Goblin diplomacy
+Continue Lost tribe
+ 
+ 
+Minigame fish trawler
+buy sand/soda ash/seaweed until you have 10k GP left or log in limit
+ 
+ 
+Home tele, Lumby
+Finish Lost tribe
+Make 5 soft clay
+    inv: gp, 5 silver ore
+Go through the gate to Al-Kharid
+
+
+
+
+1.2 Thieving, fishing and mining
+
+
+Desert
+Start the Feud at Ali Morrisane, buy the desert disguise
+Smelt the 5 silver, make a sickle and unstrung holy symbol, keep 3 bars
+Talk to Osman to get the key for Prince ali rescue quest
+
+Do the Feud, get maple blackjack
+	HCIM; Unlock the rune shop also, it's a much safer option than mage bank before mage guild (Although you won't get as many cosmics)
+
+Blackjack until 80 thieving, you can buy wines from the bar to use as food.
+	If you've been raising cats so far, I recommend not to while BJing because it gives you a delay when the kitten says it's hungry or
+	wants attention. This could cause the bandit to attack you, or even kill you.
+
+
+Ardy cloak tele and take the spirit tree to Gnome stronghold
+	Inv: GP, 2 bird snares, 5 butterfly jars, butterfly net, axe, knife
+Go out of the stronghold and walk by the fence to the west and then go north to Piscatoris
+
+Get 29 hunter
+	Put your bird snare right here, http://i.imgur.com/hQutEIn.png
+	Catch just the 1 bird until level 15, at that point start catching the ruby harvest butterflies, while hunting birds at the same
+	time. You can put another bird snare at level 20. Doing this should get you 29hunt in less than 90 minutes.
+
+If you're planning on doing 3-tick skilling, get a full inv of kebbit claws. My preferred spot, http://i.imgur.com/QebW6Yc.png
+	Need 32 craft to make spiked vambs, so just make some molten glass. Kill cows for leather since you need 40 range to buy them.
+
+
+Spirit tree to gnome stronghold and take the glider to Karamja
+Go to Shilo Village
+Buy 50-100k feathers for now (Or 250k if you know for sure you're doing 99 fishing eventually at barb fish, ~150k if knife 3t method)
+Get 58 fishing with trout and salmon
+
+Minigame tele to Barb assault
+Get 70 agility from barb fishing, should be around 94 fishing.
+	You can feed caviar and roe to kitten if you want death runes, just saves gp so it's not that important.
+	Finish 99 fishing after you unlock kingdom, 70 agi and str is all you really need for now
+
+	Alternate method: If you don't want to fish, do priest in peril now and train 52 agility, go to wildy course for 60 and then get
+	full graceful and 70 agi at seers course. You don't have to do this all at once of course but you need at least 70 eventually.
+	HCIM; Stick to Canifis course until 60 agility
+	That being said I HIGHLY recommend fishing at least 50 agi, since you need the higher str level very soon anyway.
+
+
+After 70 agility
+Minigame tele to Burthrope
+Do the rogue's den minigame for full rogue outfit. Guide by Lelador, https://www.youtube.com/watch?v=c5tQewEZPe4
+	You can cook the trout and salmon while you regen run energy for maximum efficiency
+	Buy 50 lockpicks while you're here
+
+Equip the set and go back to thieving until around 2.5m GP
+Carpet back to Shantay pass
+	Inv: teleport runes, all the golem quest items
+
+Start the Golem
+	START ELEMENTAL WORKSHOP 2 BY READING THE BOOK WHILE AT DIGSITE, keep the items in bank 
+Finish The Golem, get the gems with chisel and hammer
+
+Do Shadow of the storm(should have priest gown and black wizard hat in bank as your black items)
+    10K REWARD ON RANGED ALWAYS
+        If you didn't do fishing for str lvls, this boss fight will take you like +30mins of flinching. In that case probably worth
+		leaving this quest for later, or think of some way you can get your melee stats up.
+
+
+Go to Edgeville and talk to Oziach to continue Dragon slayer
+Go to mage bank and buy 6k nats, all of the cosmics you can get and 10 law runes each world
+	This might take more than 1 trip. HCIM can buy them from ali morrisane if you don't wanna risk mage bank, although they're more
+	expensive.
+
+Teleport to Falador
+Finish pirate's treasure quest
+Get 2 buckets of sap from this tree near falador east bank, http://i.imgur.com/YoH5z70.png
+Buy addy and rune picks from the pickaxe shop in the mines.
+
+Mine 3400 iron ore at ardy monastery, superheat them while walking to Ardy bank and tele back with ardy cloak.
+    While mining, you can tele to Khazard every now and then to buy craft supplies
+	Do medium clues if you get them from mining, might get a yew bow from reward (Comp bow works too, it's for temple of ikov)
+Don't smith them into anything yet
+
+
+
+
+1.3 Fairy rings, 43 prayer, kingdom and first 99
+
+
+Varrock
+Smith 3 bronze wire
+Buy oak longbow
+ 
+Mine 51 pure ess(Probably already have from wintertodt)
+Start Priest in peril
+Buy a saw, 400 steel nails, 250 iron nails at the sawmill
+	Just smith them if bots are buying out every world, but it's worth checking the sawmill
+
+Do priest in peril, start Rag and bone man while you run past
+ 
+Do Nature spirit
+Buy 1 raw shark
+Do Creature of Fenkenstrain
+    Use port Phasmatys furnace, you should have slime in bank, use it to get 5 ecto-tokens
+
+
+Minigame fish trawler
+Buy sand/soda ash/seaweed until log in limit
+ 
+    Inv: Tele runes, gp
+Use Chronicle tele
+ 
+South of Varrock
+Go champ guild and continue Dragon slayer, ask every question
+	Buy a rune sword, coif, green dhide chaps and vambs
+Kill the nearby bears and rams for their bones (Rag and bone man)
+Camelot tele
+ 
+Camelot
+Kill a unicorn for its bone, giant bat wing(both for Rag and bone man) south west of Catherby
+Do Elemental workshop 2
+
+Ardy cloak tele
+Kill monkeys in Ardy zoo, telegrab monkey bones(for Monkey Madness) and monkey paw(rag and bone man)
+
+Lumby
+    Inv: axe, rope, lit candle
+Get anti-dragon shield
+Kill a goblin for the bone for rag and bone man
+ 
+ 
+Lumby swamp
+Get big frog leg(you need to go to the caves), giant rat bone(both rag and bone man)
+Start Lost city
+Go to Draynor manor
+Do Ernest the chicken, finish vampire slayer
+    Dig up the skull for fairytale part 1 while you're in the area to save some time later
+ 
+ 
+Entrana
+Talk to the high priest for Holy grail
+Get at least 5 Dramen branches, make 2 staffs
+Finish Lost city
+
+Draynor
+Start Fairytale part 1.
+Pray for easy to get items, the quest guide on the 2007wiki lists where to get them.
+    If you get nature tally req, go to abyss with inv of food and kill leeches. Make sure you trap them so only 1 attacks
+ 
+Finish Fairytale1
+Talk to martin to start Fairytale2
+Buy 35 jugs of vinegar
+	Put all 8 bones you have now into pots of vinegar
+Buy 1 marigold seed, 3 cabbage seeds, 3 onion seeds from Draynor seed market
+Rescue prince ali from the jail
+
+
+Minigame fish trawler
+buy sand/soda ash/seaweed until log in limit
+ 
+While you wait for Martin's crops for FT2
+ 
+Tele to Lumby
+Start Evil Dave subquest for RFD
+	If you don't have a cat then raise one now.
+    inv: pickaxe, gp
+Kill 2 cows and make 1 soft, 1 hard leather
+Mine 1 inv of gold and smelt it
+	Make any sort of teleport jewellery you need
+ 
+Draynor
+Speak to Martin for Fairytale 2
+Go unlock fairy rings at Zanaris
+Get mithril and rune axe from tree spirits
+
+
+Bring gp, 90steel nails, 3 planks, hammer, food, runes
+Tele to POH and do Melzar's maze (Dragon slayer quest)
+Walk to port Sarim jail and telegrab 2nd map piece
+Buy and repair the ship
+Tele to Fally
+ 
+ 
+Falador
+Make a ring of recoil
+    Bring gp, runes, soft clay, wizard mind bomb, lobster pot, silk
+Make unfired bowl at barb village
+ 
+Talk to the oracle
+Get the 3rd map piece for dragon slayer
+Tele to Lumby
+ 
+ 
+Lumby
+get Ned as your captain for dragon slayer
+ 
+Go to Crandor and open the shortcut to Karamja volcano
+Go kill Elvarg, use ring of recoil, you can do as many trips as you want, if needed restock food at Tzhaar bank
+Finish dragon slayer and buy a green d'hide top
+ 
+Wear gloves and pick up 5 nettles at the yews
+Continue Evil dave subquest
+Get a slayer task from Vannaka
+ 
+ 
+Tele to Lumby
+Do Death to the Dorgeshuun. While getting the robes, keep buttons(If you didn't get them while getting the rusty swords)
+Finish Evil Dave subquest
+Thieve Bullseye lantern from dorg chests
+    Need a lockpick for the chests
+
+Get 10 construction with wooden chairs
+Do Tears of Guthix, do this weekly it's very worth it
+	Have RC as your lowest skill when you do this, since you won't have ess to train with for a while.
+
+
+Finish Holy grail
+Do Horror from the deep quest
+	Just mage the dagannoth and hide when it's weak to melee and range. Also hide when you need to eat, it's not difficult with blast
+	spells. Use proper food like swordfish and karambwans.
+Train slayer until 37 range with a bone crossbow
+Do Animal magnetism
+Do Spirits of the Elid quest
+
+
+Do the Underground pass quest
+	You can trap the paladins behind each other same way as the captain from the tourist trap quest.
+	For the spider, there are 2 skeletons on the east wall, stand between them and then mage the big one with fire blast. Sometimes
+	the little ones attack you but just run a bit north and then back to the same spot, they'll get stuck.
+Upgrade the iban staff
+Kill sand crabs for 50 attack to wield the iban's staff, shouldn't take more than one hour.
+	If you have a slayer task which doesn't require melee prot then you can do that instead too.
+
+
+Kill 85 blue dragons with iban's blast, don't bother banking the hides other than maybe 6 to make full set later
+
+Minigame tele to khazard
+Buy 90 buckets of slime, and all sand/soda ash you can get
+Equip Ghostspeak amulet
+Prepare the nettle water for ghost ahoy
+ 
+Make sure you have all ghosts ahoy items
+bring GP stack, 9 d bones, 9 pot, 9 slime, general store sells pots if you dont have
+Charter to port Phasmatys
+
+
+Phasmatys/Canifis
+Start ghosts ahoy
+Grind 9 d bones and offer them, get ecto tokens
+Finish ghosts ahoy
+Grind the rest of your bones, should get 43 prayer
+	pls tweet me if this doesn't get 43, haven't actually tested this guide this far myself.
+
+
+Get 40 slayer
+	Train range to 40 first and then just start training attack with a rune sword
+	If you get a shade task then do the next step during that task
+
+Do Shades of morton quest
+	Take the book to the apothecary in Varrock for some free herb xp
+Go talk to Historian Minas in the 2nd floor of varrock museum, use lamps on herblore
+
+Get 25 herblore if you don't have yet
+Do Heroes' quest
+
+Do Fremennik trials
+Do Throne of miscellania
+Do Royal Trouble
+
+Put at least 1m gp to kingdom, set it on 10 herbs and 5 maples
+	Get 100% favor back everyday, loot it every 3 days to get the most birds nests
+
+Finish 99 thieving
+Buy a thieving cape
+Thieve master farmers for a few hours to get a decent amount of seeds for farming.
+	Don't forget to wear rogues whenever you do master farmers
+	Never farm guams, marrentill or tarromins. Even if you've got no other seeds left it's better to do more master farmer for better 
+	seeds. 
+	Guide by Lelador, https://www.youtube.com/watch?v=YMCM-tOxCJ0
+
+
+
+
+1.4 Skilling, lots of it
+
+
+Camelot tele
+Plant barley seeds at the hops patch north of Seers, pay the farmer 3 normal compost to look after them
+ 
+Do;
+The Giant dwarf
+Buy emeralds from gem store until log in limit
+ 
+    These next 2 quests have times where you have to wait for stuff to happen, smith iron dart tips while you wait
+ 
+Forgettable tale of a drunken dwarf
+    There's an anvil near the bank in keldagrim
+    Your barley should be grown when you need it, use it on a range to get the barley malt
+ 
+Garden of tranquility
+
+Enlightened journey
+    While waiting for the willow tree to grow
+ 
+        Do Eyes of glouphrie and Tower of life (Should get you 15 construction, which allows you to make oak stuff in the workshop)
+        Smith the rest of your iron dart tips, leave 20 bars for quests
+
+Go to Shilo village
+Mine and cut 5 opals/jade/red topaz, doesn't matter which gems as long as you get 5
+	Don't mine any more than that since it's slow without a charged glory
+
+Talk to Murcaily to start Tai bwo wannai cleanup minigame and repair 1 part of the fence to be able to cut teaks
+Sell the gems to Gabooty in tai bwo wannai for trading sticks
+Cut teaks in the grove until 60 woodcutting
+
+Finish Enlightened journey if you didn't already
+	Unlock whichever balloon routes you might want to use, I use castle wars -> taverly for tree runs
+
+
+Finish 99 fishing
+	Do farm runs while you fish, at least tree runs if you have seeds from kingdom and the harralander seeds from master farmer.
+	If you need a break then feel free to do the construction and hunter parts that are next in the guide.
+	Buy the cape, unlimited teles close to a bank
+
+
+Buy 6 compost packs and get 45% hosidius favor
+Finish 100% favor at the mess hall, lock favour by talking to Hosa in the center of Kourend (Need to talk to him twice to lock AFAIK)
+	This is also where you can get 80 cooking at any point you want to, it's up to 210k xp/h with pizzas
+	Put your house to kourend for herb runs
+
+Go to the woodcutting guild
+Cut and make 1700 oak planks
+Get 50 construction
+	lvl 15, repair bench in the workshop
+	lvl 16, crafting table 1 in the workshop
+	lvl 22, oak dining table in the dining room
+	lvl 33, oak larder in the kitchen
+Build oak altar
+
+
+Get 83 hunter
+	29-43 swamp lizards
+	43-59 falconry (feel free to do orange sallies if you don't like this, falconry is faster)
+	59-67 red salamanders
+	67-80 black salamanders
+		HCIM; stay at red sallies until 80
+	80-83 red chinchompas, surround 1 red chin with your traps and just range it if it wanders off
+		If you want to rush a fire cape before any more slayer then stay here until you have around 4500 red chins for 70 range, or
+		you could start doing chins at 77 hunter if you want to stop at 83.
+
+
+Puro-puro
+Bring snare and alch runes
+Get Magic butterfly net and Jar generator
+Find an eclectic impling spawn, do medium clues until you get any kind of yew bow for temple of ikov
+ 
+Go south east corner, catch nature/magpie/ninja/dragon impling, hop and do the same in another world
+	Hold 3 worlds and catch the rare implings as they spawn
+	You can add a 4th world when you get better at it
+Do this until 12 magic logs from the nature implings
+	Don't bother getting a glory from dragons, you'll be doing 80 craft soon anyway. The 83 hunter is mainly for those random D imps.
+	If you do happen to get lucky then mount a glory in your house, don't bother using charged glories if you only have 2.
+
+
+Do Temple of Ikov quest
+	Start fletching iron darts while you run around doing quests
+Do the Regicide quest
+	Pick up a few whiteberries just north of the elf tracker
+
+If you have enough sand and soda ash, make molten glass until 46 crafting and then blow them into orbs for 49 craft
+	If you don't have enough then go buy them now at Catherby (most likely more in stock than khazard)
+Do Hand in the sand quest, get daily sand every day
+
+Do these quests while fletching darts:
+	Big chompy bird hunt
+	Rag and bone man (first part)
+	Family crest
+	Start Legend's quest (for RFD. You can finish this whenever you want, I probably won't give it a special mention later)
+	Death plateau
+	Troll Stronghold
+
+
+I'll assume you have fletched everything now and have 53 fletching
+	It depends how many days have passed since you unlocked kingdom, but I'd guess you have around 8k maples now
+Fletch maple shortbows (u) until 55 fletching
+Fletch all of your maple logs into maple longbows (u)
+	If you want to be as efficient as possible, buy craft supplies and fletch to regen run energy
+
+Buy same amount of nats (from mage bank, get cosmics too) as maple longs(u) and alch them while doing agility
+	HCIM; don't buy too many at once if you're buying from Ali since you can go buy them from mage guild for cheaper at 63 mage.
+Do agility until full graceful, switch to Rellekka at 80 agility
+	Loot kingdom and fletch more longbows to alch if you run out. Finish graceful even if you don't have enough alchs.
+
+Guessing you have 81 agility and around 70 mage now, the goal is 77 for superglass make. 
+Keep alching maple (u)'s while you do farm runs and quests
+
+Do all of the RFD subquests, except the awowogei part
+Buy a bunch of chocolate dust from the chest and make energy pots
+Do Monkey madness, focus reward on attack and defense 
+Awowogei sub quest (70 cooking at the Hosidius mess hall if you forgot where to get it)
+
+
+Get crafting supplies for 61 crafting
+	From 49 you need 2920 buckets of sand and soda ash (58.4k from making molten glass and 153.3k from blowing orbs)
+	You can save the seaweed for later and just buy the supplies until 2.9k buckets and ash, or you can cook the seaweed and fill sand
+	manually. If you fill sand, put your house to yanille and bank with fishing cape. Set house tele to outside.
+Get 61 craft
+	If you bought your nats at mage bank and got some cosmics, you can charge fire orbs for later while you craft orbs. House to 
+	Taverly and bank with dueling rings or fish cape. Rune pouch is extremely helpful for this.
+
+
+
+
+
+1.5 Diaries and finishing RFD
+
+
+
+
+Buy 2.2k gold ore from Blast furnace shop and get 60 smithing
+	You need to pay the foreman 10k every now and then when below 60
+Make a mithril grapple
+
+Do Watchtower quest
+Do Ardy medium diaries, start getting daily ess. 
+	100 might not seem like much but it adds up, always buy sapphires and emeralds and thieve stall while you go get it daily.
+
+
+Do these quests for QP and diaries:
+Icthlarin's little helper
+Eagles' peak
+Enakhra's lament
+Rat catchers
+Olaf's quest
+Between a rock
+Tai bwo wannai trio
+Rum deal & Cabin fever (Req 42 slayer, if you got a wild pie from eclectics then do this, if not then leave morytania medium for later)
+A soul's bane
+One small favour
+
+Do all easy and medium diaries
+	Wildy requires 50slayer, leave that for when you go back to slayer.
+	Buy cosmics from mage bank for now to charge orbs for daily staffs
+		4k cosmics is enough to last until you can get 59 rc
+
+
+Do Eadgar's ruse
+Do My arm's big adventure
+Do Desert Treasure
+
+Finish RFD, buy B gloves
+	Here's a video of me killing the bosses with low stats if you've never done it before, not too difficult:
+	https://www.youtube.com/watch?v=07I5GnMcVTc
+
+
+
+
+
+2. Goals after Barrows gloves
+
+
+Buy a dragon battleaxe and dragon scimitar
+Thieve master farmers every time you're out of seeds, helps so much later on to unlock staminas faster
+
+Get 60 mining and do Lunar's diplomacy
+Do Magic training arena for bones to peaches (diary req) and infinity boots. Should get you 77 magic if you've been alching maples
+Get 80 crafting
+	Go to any charter boat, buy 10 sand and 10 seaweed, use superglass make, craft them into lantern lenses and sell them back.
+	Iron DVS shows this on video, https://youtu.be/-Y-AJkcoEEg?t=209
+	As for orbs to make battlestaffs, just get daily sand, buy seaweed/soda ash and that should cover it
+Make at least 2 glories, put one in your house. Make a ring of wealth to use during slayer
+	HCIM might wanna use ring of life, although wealth makes shield left half a lot more common.
+
+Do Pest control for full range void in the intermediate boat, train at least 55 range with a bone crossbow at PC
+Use your chins at monkey madness 1 tunnels on the skeletons
+	Some people like to wait until MM2, but I don't think that's worth since your DBA spec boosts str more when your other combat stats 
+	are higher. Get the holy wrench before you chin
+
+Get a fire cape as soon as you think you can do it
+	At 70 range you use 8 charges of crystal bow without range pots, flicking eagle eye
+Get a fighter torso from BA
+Get a dragon defender
+	Finish 60 attack first if you didn't get from 40 slayer, then straight to 60 defense
+
+Read the rest of the guide so you'll know what's coming
+
+
+Start slaying. Plenty of garbage tasks early on, but just gotta deal with them.
+
+Train 70 attack -> 70 defence -> 80 strength -> 75 attack -> 99 strength -> 90 attack and then controlled for the rest of your life. Don't train defence with a whip since you'll get a lot of xp with defensive cast when maging.
+Pray flick everything, except maybe aberrant spectres
+
+
+Prioritize slayer points on; 
+Blocks* > Superior slayer > Slayer ring unlock > Blocks* > Herb sack/Slayer helm > Broads/Garg finisher > Extensions
+	*Read the block list
+
+
+Use Nieve until 87 Slayer
+Nieve Block/Skip list
+
+Block:
+Suqah 			(Block these asap, you don't want to do these ever, skip if you can't block)
+Black demon 	(Same as above, not a good task on ironman no matter what anyone might tell you, skip if no points to block)
+Kalphite 		(Block after superiors and rings, you can kill the low lvls for fast points)
+Hellhound 		(Block after superiors and rings, do them if you don't have 100pts, not worth skipping)
+Fire giant		(If you like these then block spiritual creatures instead, need 250QP for 5th block)
+
+You shouldn't be using Nieve anymore when you've done lumby elite for the 6th block
+	However if you want to stick with Nieve then block trolls(or spiritual creature if you didn't block fire giant)
+
+Skip:
+Cave Kraken
+Trolls (do these until you've got a few hundred points to work with)
+Cave horror (until blowpipe, I personally do them even with melee but most people seem to not like them)
+Iron dragon
+Steel dragon
+Scabarites
+Brine rats
+Turoth (Do these until you get a whip, the leaf sword isn't THAT bad compared to dscim, worth losing a few max hits for the herbs)
+Mutated zygomites (you can do these for points if you want, i cba)
+Waterfiends
+
+Tasks you should do:
+Abyssal demon 	(preference whether you mage or melee them, after morytania elite I'd recommend melee at slay tower)
+Bloodveld*		(Melee in catacombs, really nice xp/h for a melee task)
+Dagannoth 		(Catacombs. After Zulrah you can do them at lighthouse like this: https://youtu.be/IIHCAZ7v4Lw?t=201 )
+Greater demons 	(Melee at catacombs for shards and heads)
+Fire giant 		(Catacombs. Before you get a 5th block, not that great but not the worst task)
+Nechryael* 		(Best task on ironman right now IMO, melee with arclight in nieve's cave and tower after morytania elite)
+		The only reason you'd mage nechs is to rush 99 magic, other than that the slay xp/h doesn't even get close to being worth doing
+		and losing so much herblore xp from normal nechs.
+Smoke devil 	(Shouldn't be using Nieve still but I'll list this anyway, barrage them: https://www.youtube.com/watch?v=Qn98NVrna0U )
+Spectres* 		(Melee at tower after you get slay rings, faster to get to than Nieves cave. Kill with BP after Zulrah)
+Black dragon 	(kill babies for points, bank bones)
+Dust devil*		(Burst/barrage in catacombs)
+Gargoyle*		(Melee in nieve's cave. Tower is most likely crowded so might be worth doing at nieve's even after morytania elite)
+Ankou			(Skip these if you want to. Melee in catacombs, can burst these but idk if it's even worth. Fast task anyway)
+Dark beast		(Fast points)
+Wyvern**		(Can 1 trip, chance of visage and some decent supplies)
+Blue dragons	(Melee. For overall efficiency blue drags on task are better than green drags off task)
+Elves			(Melee at elf camp, run from Lletya. Honestly you can skip these if you don't like them, decent seeds/heads tho)
+Kurask			(Good supplies. Think they're worth doing even if they're a bit lower xp/h since you're using leaf sword)
+
+*Extended
+** If you want you can extend wyverns, but do it only after 90+ attack and str
+
+
+
+If you want, get mages' book now. I doubt it saves more time that actually getting it but if you plan on doing any post max stuff with it, then it's better to get it early rather than later. You do get a decent chunk of mage xp so you'll be able to farm with lunars earlier if you do get it.
+
+Get 58 slayer and camp for a black mask, do clues for black dhide
+Do Slayer until level 70
+
+If you're fletching maples for some afk time, stop making longbows at around 75 fletching and make arrow shafts instead
+	Need around 1.1m arrow shafts(18.3k maple logs) to finish 99fletching
+	The whole process of making headless arrows is roughly 180k xp/h even if you just bankstand, so a lot better than maple longs
+
+Regular ironman:
+Get 67 construction (or higher if you don't want to +5) with this method: https://www.youtube.com/watch?v=GFH6-oJrJ0o
+Make a gilded altar
+Kill green dragons for 70 prayer, ~2k bones including the ensouled heads you've got so far from slayer
+	Use loot bag and bank hides also, make dhide bodies
+Unlock piety
+
+HCIM:
+Get 67 construction (or higher if you don't want to +5) with this method: https://www.youtube.com/watch?v=GFH6-oJrJ0o
+Use the ensouled heads and dragon bones from blue dragons to get 60 prayer
+Unlock chivalry
+You'll get piety from slaying at around 82 slayer, not worth risking green drags IMO
+
+
+Get a quest cape
+Go back to slayer
+Do hard diaries as soon as you can do them, should have all of them done at 80 slayer
+	Ardy hard RC req might take until around 85 slayer
+	Get 59 rc at either ZMI or lavas and from there just get 65 with cosmics
+		Lavas are slightly more efficient at lower levels, and even at higher if you're good at lava rcing
+
+Get 85 slayer
+Abby demons are the most common task from Nieve, I'd recommend getting a whip on task but that's up to you. Use arclight
+Get 73 herblore and make at least 1 inv of staminas with botanical pie
+Make a pool of revitalisation in your house, good for herb runs so you don't need any energy pots
+
+Get 87 slayer
+Switch your kingdom to teaks or mahogany instead of maples if you have enough logs for the 1.1m arrow shafts, which I mentioned earlier
+	Teaks are a bit slower construction xp/h but cheaper, completely your preference on which one you want
+
+
+
+
+
+3. Zulrah, slayer and diary cape
+
+
+Switch to Duradel, use karamja gloves 3 or npc contact for new task
+
+Duradel Block/Skip list
+
+Block:
+Suqah 			
+Black demon 	
+Kalphite 		
+Hellhound 		
+Cave kraken		(Keep fire giants blocked until you get a trident and tentacle)
+Greater demon	(6th block after lumby elite)	
+
+
+Skip:
+Spiritual creatures
+Fire giant
+Steel dragon
+Trolls
+Ankou
+Iron dragon
+Scabarites
+Brine rats
+Turoth
+Mutated zygomites
+Waterfiends
+Kurask			(xp/h starting to fall off way too hard compared to the other tasks)
+
+Tasks you should do:
+Abyssal demon
+Dark beast		(Fast points)
+Tzhaar			(Jad, unlock the task when you get a blowpipe) 	
+Black dragon
+Dagannoth 		( Serp helm and BP, https://youtu.be/IIHCAZ7v4Lw?t=201 ) 
+Greater demons 	(Do until 6th block)
+Nechryael*
+Smoke devil 	( https://www.youtube.com/watch?v=Qn98NVrna0U ) 		
+Bloodveld*
+Gargoyle*
+Spectres* 		(Kill with BP)	
+Wyvern**			
+Dust devil*		(Burst/barrage in catacombs)	
+Blue dragons	(Melee. For overall efficiency blue drags on task are better than green drags off task)
+Cave horror 	(Do with blowpipe, worth it for heads and seeds. That said, you profit a lot of slay pts so you can skip if want to)
+Elves			(Melee at elf camp, run from Lletya. Honestly you can skip these if you don't like them, decent seeds/heads tho)
+
+*Extended
+** If you want you can extend wyverns, but do it only after 90+ attack and str
+
+
+
+Continue with slayer until you get a trident, kill the small ones
+
+After trident:
+	Get 85 crafting and make a fury, 29k chaos runes for the tokkul, don't forget karamja gloves for cheaper onyx
+	Get 99 hunter at the private red chin area
+	Chin 99 range at MM2 tunnels
+
+
+Kill Zulrah until you get a blowpipe (HCIM might want to wait until 93 slayer for the revive)
+	Use mystic and void range
+	Recommend using cure-me spell rather than antipoisons, doubt you can get antivenoms yet.
+		If you get a serp helm, you can switch to using it with black dhide
+
+
+Do barrows until full set for morytania elite
+Firemake all of the magic logs from zulrah
+	If you didn't get quite enough for 80 then just boost it
+Do morytania elite diary
+
+Get 77 herblore
+Do some agility for marks of grace
+Make staminas
+
+
+Get at least 83 smithing for lumby elite
+Get at least 71 RC, should have it banked unless you got really lucky on blowpipe
+Do Lumby elite diary
+
+
+
+Back to Slayer
+
+Unlock Jad tasks
+All of this PVM stuff can be skipped if you don't feel like getting those items. If you just want to rush max total then I wouldn't get these items, they're more for post 99 stuff and to look fancy.
+
+	Unblock black demon and get at least 3 zenytes to make anguish, tormented bracelet and ring of suffering
+
+Before you block greater demons, I recommend getting a hasta from Zammy GWD for
+	KQ (KQ head for desert diary)
+	Cerb (primordials and eternals) Unblock hellhound after hasta if you want to do Cerb
+	Vetion (D pick, could do other bosses, but I think this is the fastest unless you got veracs)
+
+Do DKS on task for B ring, archers ring, seers ring, mud battlestaff and D axe
+	If you're close to banking 77 rc for fremennik elite diary, then you may want to get that before DKS
+
+Do slayer until 93
+	Remember to keep farming at least fruit trees, should have a decent amount of seeds from zulrah
+	You can save your magic seeds to plant them at fally after elite diary, but farming shouldn't be a problem even if some of them die
+
+After 93 slayer and occult necklace
+	Do barrows for full dharoks, kill 3-4k mole
+		You can leave some of them for later if you don't want to kill that many at once
+	Get 87 herblore for antivenoms
+	Get 2k zulrah kc
+	Do all elite diaries
+		If you can't afford both fletching and smithing yet, then just do smithing and do desert diary later
+
+
+Get 99 slayer
+
+
+
+
+4. Finishing max total
+
+
+If you've been slacking on herb runs, now is really when you have to start doing as many of them as possible, or you'll have nothing to do while you farm herbs
+
+At the time of writing this guide, I don't know exactly how much herblore xp you get from 99 slayer nowadays, but I'd guess you need to do a total of 3m thieving xp at master farmers for seeds
+	Instead of master farmers you can do another 3-4k zulrah if you want to, which would be slightly more efficient. I went with 4k in
+	this guide because not everyone has the patience to kill 8k zulrah, so these methods are more for the majority
+
+Start collecting 4k poison ivy berries and 4k nightshades to make weapon poison++ with all of your coconuts
+	For nightshade, put house in yanille, go out from west gates, go south and it's the first cave you see
+	Pick up 14 and then do something else for at least 5 minutes
+		Need skavid map and lightsource
+	Poison ivy berries you can collect every herb run
+	
+Finish 4k zulrah kc
+	Should be enough supplies for 99fm, farming and cooking
+	You can decide yourself if you want to use addy bars to make darts or plates
+	Use the rune bars at 98 smithing to make rune legs, buy like 100 dwarven stouts from burthorpe bar
+
+
+Do these 99's in any order you want to
+	Fletching
+	Firemaking
+	Farming
+	Cooking
+	Mining
+	Smithing
+	Prayer
+	Runecrafting (Finish 99 with souls after you've used all of your ess)
+		Do RC after crafting cape if you want to do lavas instead of ZMI
+
+After those I would finish the rest in this order
+	Crafting (spin flax from zulrah if you can afford to buy the runes)
+	Herblore
+	Agility
+	Woodcutting (Bank enough teaks for 99 construct, use ape atoll tele on arceus spellbook and crafting cape)
+	Construction
+
+
+
+
+5. Training methods for all skills
+
+
+Range
+	1-32 		Quests
+	32-55 		Bone cbow during slayer and pest control
+	55-99 		Chins
+	99-200m 	BP slayer, zulrah, finish with chins if need to
+
+Prayer
+	1-36 		Quests
+	36-43 		Blue drags
+	43-60 		Ensouled heads and blue dragon tasks
+	60-200m 	Green drags, ensouled heads, zulrah
+
+Magic
+	1-43		Fire strike and quests
+	43-55		Superheat
+	55-200m		Alchs, charging orbs, burst/barrage slayer, zulrah
+
+RC
+	1-50		Quests and tears of guthix
+	50-200m		Cosmics for daily bstaffs, ZMI/Lavas, finish with souls
+
+Construct
+	1-15 		Quests, regular planks
+	15-67		Oak planks
+	67-200m		Teak benches (superior garden)
+
+Agility
+	1-34		Quests
+	34-74		Fishing
+	74-200m		Rooftops (or brimhaven if you don't need marks)
+
+Herblore
+	Can't really put specific levels for this
+	1-45ish		Quests, diaries, energy pots
+	45-65		Diaries, random pots
+	65-200m		Just use every herb you get
+
+Thieving
+	1-6 		Men
+	6-25		Cake and silk
+	25-45		Fruit stall, quests
+	45-99		Blackjacking
+	99-200m		Mostly blackjack, some master farmers
+
+Crafting
+	1-46		Mostly quests, molten glass
+	46-61		Molten glass at furnace, blow into orbs
+	61-200m		Make orbs with daily sand, make daily bstaffs. Spin flax lunar spell. Finish with superglassmake at charters
+
+Fletching
+	1-10		Bronze arrows
+	10-22		Temple of ikov
+	22-53		Iron darts
+	53-55		Maple short (u)
+	55-75		Maple long (u)
+	75-200m		Broad arrows, some darts to use with BP
+
+Slayer
+	Kill things, I wrote how to do every task in the Nieve/Duradel lists
+
+Hunter
+	9-29		Piscatoris hunter area
+	29-43		Swamp lizards
+	43-59		Falconry
+	59-67		Red salamanders
+	67-80		Black salamanders
+	80-200m		Red/black chins, preference
+
+Mining
+	1-35		Quests
+	35-75		Iron, get prospector somewhere around 70
+	75-200m		Quarry
+
+Smithing
+	1-36		Quests
+	36-54		Superheat iron and make them into dart tips
+	54-200m		Smelt gold at blast furnace, some random stuff like addy bars from zulrah
+
+Fishing
+	1-27		Quests
+	27-58		Trout/salmon
+	58-200m		Barb fishing
+
+Cooking
+	1-15		Quests
+	15-60		Trout/salmon
+	60-80		Knife method barb fishing or Mess hall
+	80-200m		Sharks and wines from zulrah
+
+Firemaking
+	1-15		Logs on top of Lumby castle
+	15-39		Oaks
+	39-50		Teaks
+	50-75		Wintertodt
+	75-200m		Magic logs
+
+Woodcutting
+	1-15		Monks friend, few normal logs
+	15-35		Oaks
+	35-60		Teaks (and some from wintertodt)
+	60-68		Oaks for 67 construction
+	68-200m		Teaks, bank enough for construction and drop the rest
+	
+Farming
+	1-33		Quests
+	33-200m		Herbs and trees, mostly from slayer and zulrah
+	
+
+
+
+6. Helpful videos
+
+
+Playlist with videos that might be worth watching
+https://www.youtube.com/playlist?list=PL_dFbUzGSs7uEmrwxLDspMS0GwBwBr8my
+
+They're not in any particular order

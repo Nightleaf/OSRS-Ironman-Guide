@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "RuneScape-Chat-07";
+    src: url('fonts/RuneScape-Chat-07.ttf');
+}
+
+a {
+  color: #90c040; 
+}
+
+.content a {
+    color: #0000ff;
+}
+
+.content {
+    background:url('https://www.runescape.com/img/rsp777/scroll/backdrop_745.gif') repeat-y top center;
+    padding:50px 75px;
+    position:relative;
+    /*margin: 10px 225px 25px;*/
+    margin: auto;
+    width: 765px;
+    /*border: 1px solid #4CAF50;*/
+    /*text-shadow: 1px 1px #000000;*/
+    color: black; 
+    font-size: 120%;
+}
+.content:before,.content:after {
+     background:url('https://www.runescape.com/img/rsp777/scroll/backdrop_765_top.gif') no-repeat center top;
+     content:'';
+     height:50px;
+     left:0;
+     position:absolute;
+     top:-11px;
+     width:100%
+}
+
+
+.content:after {
+    background:url('https://www.runescape.com/img/rsp777/scroll/backdrop_765_bottom.gif') no-repeat center bottom;
+    bottom:-11px;
+    top:auto
+}
+
+
+.ironman-nav {
+    width: 900px;
+    margin:auto;
+}
+
+.ironman-nav__option {
+     background: black;
+     border: 2px solid #382418;
+     display: inline-block;
+     padding: 7px 15px;
+}
+
+.ironman-nav__option--current {
+     color: #fff;
+     font-weight: 700;
+}
+
+h3 {
+    text-align: center;
+    color: /*#90c040;*/#7B4F17;
+    font-weight: bold;
+    text-shadow: 1px #000000;
+}
+
+h5, h4, h2, h1 {
+    text-align: center;
+}
+
+body {
+    font-family: "RuneScape-Chat-07";
+    background-color: black;
+    color: yellow;
+    line-height: 1;
+    font-size:100%;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+}
