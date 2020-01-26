@@ -21,4 +21,4 @@ Contact me via twitter @NightleafTV or by email colton.thompson@live.com
 
 # Screenshots
 
-![Image of Nightleaf.org](https://imgur.com/a/S3YPB8l)
+![Image of Nightleaf.org](https://i.imgur.com/DBUudFl.png)
