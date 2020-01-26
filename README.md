@@ -14,7 +14,7 @@ This was developed using [Brackets](http://brackets.io) and written in a mixture
 
 Colton Thompson (Website) [@NightleafTV](https://twitter.com/nightleaftv)
 
-[@OzirisLoL](https://twitter.com/ozirisLoL)
+[@OzirisLoL](https://twitter.com/ozirisLoL) (Guide)
 
 # Contact
 
