@@ -11,6 +11,7 @@ This was developed using [Brackets](http://brackets.io) and written in a mixture
 # Author
 
 This project was written May 4th through 21st, 2018.
+
 Colton Thompson (Website)
 [@OzirisLoL](https://twitter.com/ozirisLoL)
 
