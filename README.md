@@ -12,7 +12,8 @@ This was developed using [Brackets](http://brackets.io) and written in a mixture
 
 # Author
 
-Colton Thompson (Website)
+Colton Thompson (Website) [@NightleafTV](https://twitter.com/nightleaftv)
+
 [@OzirisLoL](https://twitter.com/ozirisLoL)
 
 # Contact
